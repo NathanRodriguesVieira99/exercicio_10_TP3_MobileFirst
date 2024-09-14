@@ -1,0 +1,36 @@
+.odin {
+  background-color: green;
+  
+}
+
+.main h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.main p {
+  padding: 10px;
+  font-size: 18px;
+}
+
+.main {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+.sobreTupinambas {
+  margin-bottom: 10px;
+  width: 500px;
+  border: 1px solid black;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
